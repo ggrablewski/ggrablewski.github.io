@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Grzegorz Grablewski - Mobile & Web Games Developer">
+    <title>Grzegorz Grablewski - Developer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            padding: 40px;
+        }
+
+        h1 {
+            color: #667eea;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            color: #764ba2;
+            font-size: 1.5em;
+            margin: 30px 0 15px;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 10px;
+        }
+
+        .subtitle {
+            color: #666;
+            font-size: 1.2em;
+            margin-bottom: 30px;
+        }
+
+        .project-list {
+            list-style: none;
+            margin: 15px 0;
+        }
+
+        .project-list li {
+            margin: 12px 0;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .project-list li:hover {
+            transform: translateX(5px);
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        a:hover {
+            color: #764ba2;
+            text-decoration: underline;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 4px 10px;
+            background: #667eea;
+            color: white;
+            border-radius: 12px;
+            font-size: 0.85em;
+            margin-left: 8px;
+        }
+
+        .badge.mobile {
+            background: #764ba2;
+        }
+
+        .badge.web {
+            background: #48bb78;
+        }
+
+        .contact {
+            margin-top: 30px;
+            padding: 20px;
+            background: #f0f4ff;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .language-links {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .language-links a {
+            flex: 1;
+            min-width: 150px;
+            padding: 10px;
+            background: #f8f9fa;
+            border-radius: 6px;
+            text-align: center;
+            transition: background 0.2s;
+        }
+
+        .language-links a:hover {
+            background: #e9ecef;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            h2 {
+                font-size: 1.3em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Grzegorz Grablewski</h1>
+        <p class="subtitle">Mobile & Web Games Developer</p>
+
+        <h2>🎮 Published Projects</h2>
+        <ul class="project-list">
+            <li>
+                <a href="https://play.google.com/store/apps/details?id=com.ggrablewski.memorygame" target="_blank">
+                    Ignaś Memo Pairs (Android)
+                </a>
+                <span class="badge mobile">Mobile</span>
+                <br><small>Memory card game for kids - Available on Google Play</small>
+            </li>
+            <li>
+                <a href="https://apps.apple.com/app/igna%C5%9B-memo-pairs/id6738697838" target="_blank">
+                    Ignaś Memo Pairs (iOS)
+                </a>
+                <span class="badge mobile">Mobile</span>
+                <br><small>Memory card game for kids - Available on App Store</small>
+            </li>
+        </ul>
+
+        <h2>🌐 Web Projects (GitHub Pages)</h2>
+        <ul class="project-list">
+            <li>
+                <a href="https://ggrablewski.github.io/memory-game/">Memory Game</a>
+                <span class="badge web">Web</span>
+                <br><small>Classic memory game in JavaScript</small>
+            </li>
+            <li>
+                <a href="https://ggrablewski.github.io/memory-game-react/">Memory Game React</a>
+                <span class="badge web">Web</span>
+                <br><small>Memory game built with React</small>
+            </li>
+            <li>
+                <a href="https://ggrablewski.github.io/pong-game/">Pong Game</a>
+                <span class="badge web">Web</span>
+                <br><small>Classic Pong game implementation</small>
+            </li>
+        </ul>
+
+        <h2>📄 Privacy Policy</h2>
+        <div class="language-links">
+            <a href="Privacy-policy.md">🇬🇧 English</a>
+            <a href="Polityka-prywatnosci.md">🇵🇱 Polski</a>
+            <a href="Datenschutz-Regeln.md">🇩🇪 Deutsch</a>
+        </div>
+
+        <div class="contact">
+            <h2 style="border: none; margin-top: 0;">📧 Contact</h2>
+            <p>Email: <a href="mailto:ggrablewski@wp.pl">ggrablewski@wp.pl</a></p>
+            <p>GitHub: <a href="https://github.com/ggrablewski" target="_blank">@ggrablewski</a></p>
+        </div>
+    </div>
+</body>
+</html>
