@@ -12,14 +12,20 @@ In particular:
 The Application does not require the creation of an account,
 The Application does not collect data identifying the user,
 The Application does not collect contact, location, or technical data,
-The Application does not use cookies or similar tracking mechanisms.
+The Application does not use cookies or similar tracking mechanisms,
+The Application does not display personalized ads (only generic ones).
 
 3. Entering a Player Name or Username
 The Application allows the user to enter a name or any text identifying the player solely for the purposes of the current game.
 
 This information:
-is used only locally,
-is not transferred anywhere outside the user's device.
+- is used only locally,
+- will be saved only locally on the user's device and only during the time, when the Application is present on the device (installed),
+- is not transferred anywhere outside the user's device.
+
+Permanent removal of the saved information is possible:
+- by entering any other string of chars in the place of current text (newly entered text permanently overwrites previous text),
+- by uninstalling the Application - all saved data is then deleted.
 
 4. Children
 The Application is safe for children and does not collect any data from them, including personal data as defined by applicable regulations (e.g., GDPR, COPPA).

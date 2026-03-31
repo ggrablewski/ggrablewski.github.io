@@ -13,14 +13,20 @@ Insbesondere:
 Für die Anwendung ist keine Kontoerstellung erforderlich.
 Die Anwendung erhebt keine Daten, die den Nutzer identifizieren.
 Die Anwendung erhebt keine Kontakt-, Standort- oder technischen Daten.
-Die Anwendung verwendet keine Cookies oder ähnliche Tracking-Mechanismen.
+Die Anwendung verwendet keine Cookies oder ähnliche Tracking-Mechanismen,
+Die Anwendung zeigt keine personalisierten Anzeigen an (nur allgemeine).
 
 3. Eingabe eines Spielernamens oder Benutzernamens
 Die Anwendung ermöglicht es dem Nutzer, einen Namen oder einen beliebigen Text einzugeben, der den Spieler ausschließlich für die Zwecke des aktuellen Spiels identifiziert.
 
 Diese Informationen:
-werden nur lokal verwendet,
-werden nicht außerhalb des Geräts des Nutzers übertragen.
+- werden nur lokal verwendet,
+- werden nur lokal auf dem Gerät des Benutzers und nur solange gespeichert, wie die Anwendung auf dem Gerät vorhanden (installiert) ist,
+- werden nicht außerhalb des Geräts des Benutzers übertragen.
+
+Die gespeicherten Informationen können dauerhaft gelöscht werden:
+- durch Eingabe einer beliebigen anderen Zeichenfolge anstelle des aktuellen Textes (neu eingegebener Text überschreibt den vorherigen Text dauerhaft),
+- durch Deinstallation der Anwendung – alle gespeicherten Daten werden dann gelöscht.
 
 4. Kinder
 Die Anwendung ist sicher für Kinder und erhebt keine Daten von ihnen, einschließlich personenbezogener Daten im Sinne geltender Vorschriften (z. B. GDPR, COPPA).

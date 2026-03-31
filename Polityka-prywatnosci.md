@@ -12,14 +12,20 @@ W szczególności:
 Aplikacja nie wymaga zakładania konta,
 Aplikacja nie gromadzi danych identyfikujących użytkownika,
 Aplikacja nie zbiera danych kontaktowych, lokalizacyjnych, ani technicznych,
-Aplikacja nie korzysta z plików cookies ani podobnych mechanizmów śledzących.
+Aplikacja nie korzysta z plików cookies ani podobnych mechanizmów śledzących,
+Aplikacja nie wyświetla spersonalizowanych reklam (tylko generyczne).
 
 3. Wprowadzanie imienia lub nazwy gracza
 Aplikacja umożliwia użytkownikowi wpisanie imienia lub dowolnego tekstu identyfikującego gracza wyłącznie na potrzeby bieżącej rozgrywki.
 
 Informacja ta:
-jest wykorzystywana tylko lokalnie,
-nie jest przesyłana nigdzie poza urządzenie użytkownika.
+- jest wykorzystywana tylko lokalnie,
+- zostanie zapisana tylko lokalnie na urządzeniu użytkownika i tylko w czasie, gdy Aplikacja jest tam zainstalowana,
+- nie jest przesyłana nigdzie poza urządzenie użytkownika.
+
+Trwałe usunięcie zapisanej informacji jest możliwe:
+- poprzez wprowadzenie dowolnego innego ciągu znaków w miejsce tekstu dotychczas zapisanego (nowy wpis trwale nadpisuje poprzedni),
+- poprzez odinstalowanie Aplikacji - wszystkie zapisane informacje są wówczas usuwane.
 
 4. Dzieci
 Aplikacja jest bezpieczna dla dzieci i nie zbiera żadnych danych od dzieci, w tym danych osobowych w rozumieniu obowiązujących przepisów (np. RODO, COPPA).
