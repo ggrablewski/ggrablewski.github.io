@@ -30,6 +30,7 @@ Trwałe usunięcie zapisanej informacji jest możliwe:
 4. Dzieci
 Aplikacja jest bezpieczna dla dzieci i nie zbiera żadnych danych od dzieci, w tym danych osobowych w rozumieniu obowiązujących przepisów (np. RODO, COPPA).
 Nie są wymagane żadne zgody rodzicielskie, ponieważ Aplikacja nie przetwarza danych osobowych.
+Wszelkie reklamy będą dostosowane do dzieci i oferowane tylko przez samodzielnie certyfikowane pakiety SDK do wyświetlania reklam dla rodzin.
 
 5. Udostępnianie danych podmiotom trzecim
 Aplikacja:

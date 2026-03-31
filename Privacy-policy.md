@@ -30,6 +30,7 @@ Permanent removal of the saved information is possible:
 4. Children
 The Application is safe for children and does not collect any data from them, including personal data as defined by applicable regulations (e.g., GDPR, COPPA).
 No parental consent is required because the Application does not process personal data.
+All advertising will be tailored to children and only served through Families Self-Certified Ads SDKs.
 
 5. Sharing Data with Third Parties
 The Application:

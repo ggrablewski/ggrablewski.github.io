@@ -31,6 +31,7 @@ Die gespeicherten Informationen können dauerhaft gelöscht werden:
 4. Kinder
 Die Anwendung ist sicher für Kinder und erhebt keine Daten von ihnen, einschließlich personenbezogener Daten im Sinne geltender Vorschriften (z. B. GDPR, COPPA).
 Da die Anwendung keine personenbezogenen Daten verarbeitet, ist keine elterliche Einwilligung erforderlich.
+Alle Werbungen wird auf Kinder zugeschnitten und ausschließlich über Families Self-Certified Ads SDKs ausgeliefert.
 
 5. Datenweitergabe an Dritte
 Die Anwendung:
